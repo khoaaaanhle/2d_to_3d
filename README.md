@@ -1,4 +1,4 @@
-<img width="540" height="960" alt="result_diff_negative_cells" src="https://github.com/user-attachments/assets/b5d12606-3f6c-4086-aa37-866c114b2f8a" /># Depth-based Defect Detection from 2D Images
+# Depth-based Defect Detection from 2D Images
 
 ## Giới thiệu
 Dự án này sử dụng **camera 2D** để thu thập hình ảnh sản phẩm, sau đó áp dụng **thuật toán ước lượng độ sâu (Depth Estimation)** nhằm tái tạo thông tin **3D (chiều sâu)** từ ảnh 2D.  
